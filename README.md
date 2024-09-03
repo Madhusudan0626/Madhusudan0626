@@ -20,7 +20,6 @@ Welcome to my GitHub profile! I'm an aspiring **Data Analyst** passionate about 
 
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/Madhusudan0626/)
-- [Twitter](https://twitter.com/Madhusudan0626)
 - [LeetCode](https://leetcode.com/Madhusudan0626)
 
 ## 🌟 Fun Fact
