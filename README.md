@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm an aspiring **Data Analyst** passionate about 
 
 - 🌱 Currently exploring advanced data analysis techniques and tools.
 - 💬 Ask me about data analytics, Python, SQL, or anything tech-related!
-- 📫 How to reach me: [your-email@example.com](mailto:your-email@example.com)
+- 📫 How to reach me: [chandmadhusudan1212@gmail.com](chandmadhusudan1212@gmail.com)
 - ⚡ Fun fact: I love connecting the dots between data and decision-making!
 
 ## 🚀 My Skills and Interests
