@@ -18,11 +18,6 @@ Welcome to my GitHub profile! I'm an aspiring **Data Analyst** passionate about 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Madhusudan0626&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Madhusudan0626&layout=compact&theme=radical)
 
-## 📊 Recent Projects
-- **[Data Analysis of Customer Trends](https://github.com/Madhusudan0626/customer-trends-analysis):** Analyzing customer purchase behavior to optimize marketing strategies.
-- **[Predictive Modeling for Sales Forecasting](https://github.com/Madhusudan0626/sales-forecasting):** Developing machine learning models to predict sales trends.
-- **[Interactive Data Dashboard](https://github.com/Madhusudan0626/data-dashboard):** Built an interactive dashboard for real-time data visualization using Power BI.
-
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/Madhusudan0626/)
 - [Twitter](https://twitter.com/Madhusudan0626)
