@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm an aspiring **Data Analyst** passionate about 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Madhusudan0626&layout=compact&theme=radical)
 
 ## 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/Madhusudan0626/)
+- [LinkedIn](https://www.linkedin.com/in/madhusudan-chand-028548207)
 - [LeetCode](https://leetcode.com/Madhusudan0626)
 
 ## 🌟 Fun Fact
